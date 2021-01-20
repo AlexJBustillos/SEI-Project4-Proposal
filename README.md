@@ -9,3 +9,6 @@ its the weekend and you want to get into a state of relaxation so you pull up th
 
 Here we get into how kokoro works first we'll start with database relationships within our app below is a picture of our ERD which shows how our databases relate to each other 
 ![image of erd](https://imgur.com/lHtW03j)
+
+Here we lay out our original plans for how we want the app to look and the information we want to display 
+![image of wireframe](https://imgur.com/QUQ8jW4)
