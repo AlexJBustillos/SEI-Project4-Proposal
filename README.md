@@ -7,4 +7,5 @@ User stories
 
 its the weekend and you want to get into a state of relaxation so you pull up the kokoro app to start your relaxing weekend off correctly by choosing one a meditation type created for that purpose exactly 
 
+Here we get into how kokoro works first we'll start with database relationships within our app below is a picture of our ERD which shows how our databases relate to each other 
 ![image of erd](https://imgur.com/lHtW03j)
